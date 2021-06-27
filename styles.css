@@ -81,6 +81,8 @@ p {
     padding-top: 0%;
   }
   #drum-machine {
-    height: 40vh;
+    height: auto;
+    width: 400px;
+    padding-bottom: 5%;
   }
 }
