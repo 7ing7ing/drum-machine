@@ -12,6 +12,6 @@
 
 
 :link:Link:
-- 7ing7ing.github.io/drum-machine/
+- https://7ing7ing.github.io/drum-machine/
 
 
