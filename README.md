@@ -1,4 +1,17 @@
-# drum-machine
-FreeCodeCamp drum-machine project
+# Drum machine
 
-Drum machine done with React's functional components and state hook.
+:page_facing_up:Description:
+
+- A drum machine where each button plays a different sound, and shows the name of it at the same time. It also has a volume toggle.
+
+:wrench:Technologies used:
+
+- HTML, CSS, Javascript
+- React (functional components, state hook)
+- Bootstrap
+
+
+:link:Link:
+- 7ing7ing.github.io/drum-machine/
+
+
